@@ -1,4 +1,4 @@
-# Text & Unicode Tools – Coderstool
+# Text & Unicode Tools – CodersTool
 
 This category collects tools that help you inspect, convert, and debug text and Unicode data.
 

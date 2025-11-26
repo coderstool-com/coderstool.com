@@ -1,4 +1,4 @@
-# SQL & Database Tools – Coderstool
+# SQL & Database Tools – CodersTool
 
 This category collects tools that help you validate and work with SQL and database-related text.
 

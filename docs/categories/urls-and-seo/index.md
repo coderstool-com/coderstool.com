@@ -1,4 +1,4 @@
-# URL & SEO Tools – Coderstool
+# URL & SEO Tools – CodersTool
 
 This category collects tools that help you inspect, clean, and prepare URLs for SEO work, testing, and analytics.
 

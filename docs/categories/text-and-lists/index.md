@@ -1,4 +1,4 @@
-# Text & List Tools – Coderstool
+# Text & List Tools – CodersTool
 
 This category collects tools that help you clean, format, and transform lists of text values.
 

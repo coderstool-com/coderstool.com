@@ -1,4 +1,4 @@
-# Coderstool – Micro Online Tools for Developers
+# CodersTool – Micro Online Tools for Developers
 
 Welcome! 👋  
 
@@ -8,9 +8,9 @@ No signup. No bloat. Just handy tools you can open in a tab, use, and close.
 
 ---
 
-## 🚀 What is Coderstool?
+## 🚀 What is CodersTool?
 
-Coderstool is a collection of **micro tools** that solve everyday dev problems:
+CodersTool is a collection of **micro tools** that solve everyday dev problems:
 
 - Converters (JSON ⇄ CSV, binary/hex, colour formats, etc.)
 - Encoders & decoders
@@ -26,7 +26,7 @@ The goal: **make boring tasks fast**, so you can get back to real work.
 
 ## 🧩 Docs in this repo
 
-This repo also contains lightweight documentation for many of the tools on Coderstool, organized by category under `docs/`:
+This repo also contains lightweight documentation for many of the tools on CodersTool, organized by category under `docs/`:
 
 - `docs/categories/text-and-unicode/`
 - `docs/categories/sql-and-databases/`
@@ -112,5 +112,5 @@ This project lives alongside client work and other SaaS products, so progress is
 
 - 🌐 Website: https://www.coderstool.com
 - 📝 Blog: https://www.coderstool.com/blog/
-- 🧰 Tools index: https://www.coderstool.com/tools
+- 🧰 Tools index: https://www.coderstool.com/sitemap
 - 📧 Contact: see the contact form on the site
